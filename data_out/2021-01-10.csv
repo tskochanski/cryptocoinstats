@@ -1,0 +1,101 @@
+Unnamed: 0,#,Coin,Price,1h,24h,7d,24h Volume,Mkt Cap,Last 7 Days,CoinA,happyness,likers
+,1,Bitcoin  BTC  BTC,"$39,698",-0.8%,-2.9%,23.4%,"$59,988,888,869","$743,190,991,044",,https://www.coingecko.com/en/coins/Bitcoin,76.28%,204544
+,2,Ethereum  ETH  ETH,"$1,307.36",-1.1%,6.3%,68.1%,"$41,276,542,283","$150,301,914,212",,https://www.coingecko.com/en/coins/Ethereum,89.97%,173888
+,3,Tether  USDT  USDT,$1.00,0.5%,-0.1%,0.1%,"$98,890,159,191","$24,342,213,612",,https://www.coingecko.com/en/coins/Tether,52.21%,24647
+,4,XRP  XRP  XRP,$0.330034,-1.8%,1.0%,48.8%,"$6,488,548,342","$15,110,355,690",,https://www.coingecko.com/en/coins/XRP,73.66%,97193
+,5,Litecoin  LTC  LTC,$174.93,-1.2%,2.0%,27.0%,"$9,283,023,532","$11,660,130,431",,https://www.coingecko.com/en/coins/Litecoin,83.56%,74608
+,6,Bitcoin Cash  BCH  BCH,$596.98,-2.7%,29.3%,68.3%,"$14,587,466,325","$11,316,518,133",,https://www.coingecko.com/en/coins/Bitcoin-Cash,80.55%,45947
+,7,Cardano  ADA  ADA,$0.314473,-2.2%,-3.7%,76.5%,"$2,766,688,861","$9,856,633,050",,https://www.coingecko.com/en/coins/Cardano,91.44%,58926
+,8,Polkadot  DOT  DOT,$9.44,-1.6%,-0.4%,2.3%,"$811,685,929","$9,015,265,537",,https://www.coingecko.com/en/coins/Polkadot,85.71%,47639
+,9,Chainlink  LINK  LINK,$17.06,-1.8%,5.9%,39.7%,"$2,097,996,987","$6,909,560,358",,https://www.coingecko.com/en/coins/Chainlink,91.68%,60263
+,10,Stellar  XLM  XLM,$0.296682,-2.5%,-3.4%,131.0%,"$2,118,944,043","$6,589,511,172",,https://www.coingecko.com/en/coins/Stellar,83.77%,47319
+,11,Binance Coin  BNB  BNB,$43.34,-0.9%,0.8%,13.0%,"$741,262,462","$6,446,344,265",,https://www.coingecko.com/en/coins/Binance-Coin,82.78%,35740
+,12,Bitcoin SV  BSV  BSV,$254.62,-1.7%,9.5%,55.9%,"$4,554,593,438","$4,838,602,921",,https://www.coingecko.com/en/coins/Bitcoin-SV,70.47%,6789
+,13,USD Coin  USDC  USDC,$1.00,-0.0%,0.4%,0.0%,"$1,634,639,544","$4,809,326,205",,https://www.coingecko.com/en/coins/USD-Coin,76.92%,7794
+,14,Wrapped Bitcoin  WBTC  WBTC,"$39,665",-0.9%,-3.1%,23.5%,"$327,879,671","$4,409,945,383",,https://www.coingecko.com/en/coins/Wrapped-Bitcoin,66.67%,3285
+,15,EOS  EOS  EOS,$3.23,-10.2%,-7.9%,23.1%,"$6,432,082,468","$3,193,545,254",,https://www.coingecko.com/en/coins/EOS,78.65%,24615
+,16,Monero  XMR  XMR,$161.04,-4.6%,11.9%,12.2%,"$885,283,702","$2,912,803,925",,https://www.coingecko.com/en/coins/Monero,88.55%,40620
+,17,TRON  TRX  TRX,$0.03338698,-2.7%,-2.1%,22.3%,"$2,143,411,068","$2,416,727,598",,https://www.coingecko.com/en/coins/TRON,85.15%,38940
+,18,NEM  XEM  XEM,$0.239194,-2.9%,1.2%,17.7%,"$136,828,179","$2,172,854,425",,https://www.coingecko.com/en/coins/NEM,78.95%,19769
+,19,Tezos  XTZ  XTZ,$2.65,-2.8%,2.3%,32.4%,"$332,629,431","$2,022,290,135",,https://www.coingecko.com/en/coins/Tezos,93.01%,23617
+,20,Theta Network  THETA  THETA,$1.97,-0.7%,-5.7%,-17.9%,"$131,559,078","$1,984,459,777",,https://www.coingecko.com/en/coins/Theta-Network,86.11%,17045
+,21,OKB  OKB  OKB,$7.25,0.5%,1.1%,-12.7%,"$200,982,951","$1,969,900,281",,https://www.coingecko.com/en/coins/OKB,77.78%,2200
+,22,Celsius Network  CEL  CEL,$5.10,-1.1%,-6.3%,-15.3%,"$18,428,373","$1,965,477,024",,https://www.coingecko.com/en/coins/Celsius-Network,,
+,23,Synthetix Network Token  SNX  SNX,$13.40,-0.5%,11.2%,63.4%,"$311,481,117","$1,849,291,266",,https://www.coingecko.com/en/coins/Synthetix-Network,,
+,24,Crypto.com Coin  CRO  CRO,$0.08164968,-1.7%,-2.4%,30.9%,"$88,501,115","$1,847,441,154",,https://www.coingecko.com/en/coins/Crypto.com-Coin,,
+,25,VeChain  VET  VET,$0.02766660,-3.1%,-5.6%,38.6%,"$459,849,157","$1,813,661,485",,https://www.coingecko.com/en/coins/VeChain,91.71%,34801
+,26,Cosmos  ATOM  ATOM,$6.61,-1.8%,2.0%,22.0%,"$609,281,649","$1,587,676,080",,https://www.coingecko.com/en/coins/Cosmos,86.44%,19726
+,27,Maker  MKR  MKR,"$1,747.29",-1.4%,48.7%,186.3%,"$906,281,606","$1,586,544,833",,https://www.coingecko.com/en/coins/Maker,83.63%,12124
+,28,NEO  NEO  NEO,$21.89,-2.3%,5.2%,51.5%,"$1,004,808,922","$1,566,119,563",,https://www.coingecko.com/en/coins/NEO,86.71%,25763
+,29,Aave  AAVE  AAVE,$123.49,-1.9%,6.8%,43.5%,"$407,577,890","$1,500,416,796",,https://www.coingecko.com/en/coins/Aave,86.3%,17445
+,30,Dash  DASH  DASH,$145.13,-4.3%,42.2%,66.5%,"$2,445,740,074","$1,460,393,283",,https://www.coingecko.com/en/coins/Dash,87.14%,37551
+,31,Dai  DAI  DAI,$1.01,0.6%,0.5%,0.1%,"$510,707,865","$1,429,325,320",,https://www.coingecko.com/en/coins/Dai,75.0%,8361
+,32,Uniswap  UNI  UNI,$6.12,-1.1%,-0.1%,25.8%,"$408,013,151","$1,328,254,800",,https://www.coingecko.com/en/coins/Uniswap,86.05%,37513
+,33,Dogecoin  DOGE  DOGE,$0.01013640,-1.6%,-0.6%,-4.4%,"$447,924,880","$1,304,228,058",,https://www.coingecko.com/en/coins/Dogecoin,81.16%,43780
+,34,LEO Token  LEO  LEO,$1.34,0.0%,0.0%,-4.2%,"$18,497,198","$1,296,361,571",,https://www.coingecko.com/en/coins/LEO-Token,71.43%,1484
+,35,cETH  CETH  CETH,$26.17,-1.2%,6.2%,68.2%,"$17,855,808","$1,263,689,264",,https://www.coingecko.com/en/coins/cETH,,
+,36,IOTA  MIOTA  MIOTA,$0.425231,-2.2%,-7.7%,48.6%,"$93,217,618","$1,204,928,724",,https://www.coingecko.com/en/coins/IOTA,90.46%,24091
+,37,Binance USD  BUSD  BUSD,$1.00,-0.1%,0.4%,0.0%,"$2,124,888,621","$1,183,829,910",,https://www.coingecko.com/en/coins/Binance-USD,83.33%,2666
+,38,cDAI  CDAI  CDAI,$0.02102656,-0.0%,0.5%,0.7%,"$10,114,368","$1,160,586,258",,https://www.coingecko.com/en/coins/cDAI,75.0%,1015
+,39,yearn.finance  YFI  YFI,"$35,517",-2.2%,-6.6%,64.9%,"$885,244,134","$1,070,636,455",,https://www.coingecko.com/en/coins/yearn.finance,,
+,40,Huobi Token  HT  HT,$5.29,0.5%,6.1%,9.0%,"$340,484,713","$1,060,231,571",,https://www.coingecko.com/en/coins/Huobi-Token,75.0%,2814
+,41,Filecoin  FIL  FIL,$23.47,2.0%,6.0%,7.5%,"$209,324,669","$1,036,744,801",,https://www.coingecko.com/en/coins/Filecoin,81.82%,6221
+,42,Ethereum Classic  ETC  ETC,$8.71,-2.5%,19.9%,50.3%,"$2,874,996,481","$1,025,220,341",,https://www.coingecko.com/en/coins/Ethereum-Classic,85.81%,27280
+,43,Zcash  ZEC  ZEC,$89.15,-5.3%,23.6%,54.7%,"$1,624,982,805","$984,654,195",,https://www.coingecko.com/en/coins/Zcash,80.47%,25508
+,44,Zilliqa  ZIL  ZIL,$0.07573748,-3.2%,-0.8%,3.4%,"$214,320,393","$888,435,064",,https://www.coingecko.com/en/coins/Zilliqa,92.4%,23338
+,45,cUSDC  CUSDC  CUSDC,$0.02150349,-0.0%,0.4%,0.7%,"$26,240,283","$879,504,319",,https://www.coingecko.com/en/coins/cUSDC,,
+,46,Solana  SOL  SOL,$3.33,-1.6%,6.3%,85.0%,"$105,567,007","$875,740,939",,https://www.coingecko.com/en/coins/Solana,72.22%,8526
+,47,FTX Token  FTT  FTT,$9.51,-1.1%,1.8%,53.3%,"$21,460,782","$857,429,437",,https://www.coingecko.com/en/coins/FTX-Token,70.59%,3875
+,48,Compound  COMP  COMP,$192.31,-2.6%,10.5%,40.5%,"$154,557,558","$802,918,740",,https://www.coingecko.com/en/coins/Compound,81.36%,15463
+,49,Decred  DCR  DCR,$59.65,0.0%,-3.6%,30.4%,"$18,707,702","$745,387,123",,https://www.coingecko.com/en/coins/Decred,85.71%,7082
+,50,Huobi BTC  HBTC  HBTC,"$39,675",-0.9%,-2.5%,24.6%,"$12,025,827","$714,014,498",,https://www.coingecko.com/en/coins/Huobi-BTC,16.67%,261
+,51,Waves  WAVES  WAVES,$6.65,-0.8%,12.2%,18.9%,"$200,717,940","$674,514,658",,https://www.coingecko.com/en/coins/Waves,81.54%,15584
+,52,Kusama  KSM  KSM,$69.22,-1.4%,-0.1%,0.0%,"$119,824,659","$623,686,427",,https://www.coingecko.com/en/coins/Kusama,86.79%,15250
+,53,Elrond  EGLD  EGLD,$36.71,-1.5%,-3.7%,41.6%,"$90,990,505","$621,553,088",,https://www.coingecko.com/en/coins/Elrond,90.75%,11967
+,54,Sushi  SUSHI  SUSHI,$4.51,-2.0%,-3.4%,40.8%,"$398,608,300","$578,012,691",,https://www.coingecko.com/en/coins/Sushi,77.91%,15167
+,55,UMA  UMA  UMA,$9.84,-0.1%,1.4%,18.6%,"$29,354,498","$551,969,956",,https://www.coingecko.com/en/coins/UMA,80.0%,7467
+,56,OMG Network  OMG  OMG,$3.74,-3.5%,4.2%,47.7%,"$426,317,377","$530,518,084",,https://www.coingecko.com/en/coins/OMG-Network,84.51%,17732
+,57,Avalanche  AVAX  AVAX,$6.79,-1.5%,-3.1%,94.0%,"$90,778,993","$522,602,485",,https://www.coingecko.com/en/coins/Avalanche,78.52%,5284
+,58,renBTC  RENBTC  RENBTC,"$39,712",-1.1%,-3.5%,23.3%,"$31,049,820","$505,250,747",,https://www.coingecko.com/en/coins/renBTC,88.89%,1236
+,59,Ontology  ONT  ONT,$0.617289,-2.4%,-0.3%,32.1%,"$258,985,468","$502,633,451",,https://www.coingecko.com/en/coins/Ontology,82.14%,8262
+,60,Paxos Standard  PAX  PAX,$1.00,-0.1%,0.6%,0.1%,"$177,501,892","$496,486,696",,https://www.coingecko.com/en/coins/Paxos-Standard,100.0%,1869
+,61,Loopring  LRC  LRC,$0.376560,-1.5%,-8.4%,115.0%,"$144,901,440","$473,307,535",,https://www.coingecko.com/en/coins/Loopring,88.16%,11406
+,62,Nano  NANO  NANO,$3.52,-3.2%,-6.8%,235.9%,"$102,181,176","$471,758,893",,https://www.coingecko.com/en/coins/Nano,73.36%,11290
+,63,Blockstack  STX  STX,$0.485331,-2.1%,-2.4%,6.7%,"$6,720,563","$446,985,613",,https://www.coingecko.com/en/coins/Blockstack,89.47%,7010
+,64,DigiByte  DGB  DGB,$0.03066604,-1.4%,0.0%,9.5%,"$37,668,911","$429,452,296",,https://www.coingecko.com/en/coins/DigiByte,91.67%,19174
+,65,Near  NEAR  NEAR,$1.70,-2.2%,-3.5%,20.2%,"$65,919,632","$424,081,049",,https://www.coingecko.com/en/coins/Near,94.74%,3166
+,66,Reserve Rights Token  RSR  RSR,$0.04423853,-3.5%,-5.6%,52.5%,"$164,891,788","$418,645,748",,https://www.coingecko.com/en/coins/Reserve-Rights,,
+,67,Terra  LUNA  LUNA,$0.863052,-0.1%,4.0%,36.8%,"$31,187,931","$418,161,765",,https://www.coingecko.com/en/coins/Terra,73.91%,4653
+,68,The Graph  GRT  GRT,$0.340415,-2.4%,-5.4%,3.8%,"$191,685,601","$417,592,627",,https://www.coingecko.com/en/coins/The-Graph,80.36%,15693
+,69,Bitcoin Cash ABC  BCHA  BCHA,$22.10,-4.3%,16.8%,35.2%,"$81,046,945","$411,784,085",,https://www.coingecko.com/en/coins/Bitcoin-Cash,80.39%,45951
+,70,Basic Attention Token  BAT  BAT,$0.271648,-1.9%,1.9%,33.1%,"$249,636,354","$407,263,261",,https://www.coingecko.com/en/coins/Basic-Attention,,
+,71,0x  ZRX  ZRX,$0.513284,-4.0%,5.4%,42.1%,"$352,831,422","$389,023,745",,https://www.coingecko.com/en/coins/0x,86.67%,16372
+,72,ICON  ICX  ICX,$0.652224,-1.5%,-3.4%,50.5%,"$76,865,349","$380,376,488",,https://www.coingecko.com/en/coins/ICON,94.12%,11197
+,73,Algorand  ALGO  ALGO,$0.467108,-2.5%,-3.7%,14.7%,"$274,936,170","$379,599,200",,https://www.coingecko.com/en/coins/Algorand,88.07%,17049
+,74,REN  REN  REN,$0.413326,-3.1%,-3.1%,32.4%,"$144,448,498","$367,270,682",,https://www.coingecko.com/en/coins/REN,92.38%,19207
+,75,Empty Set Dollar  ESD  ESD,$0.714575,-1.3%,8.3%,-16.6%,"$15,487,839","$363,601,369",,https://www.coingecko.com/en/coins/Empty-Set,,
+,76,NEXO  NEXO  NEXO,$0.634445,-0.5%,2.2%,-2.2%,"$7,608,656","$355,498,070",,https://www.coingecko.com/en/coins/NEXO,90.0%,7123
+,77,Qtum  QTUM  QTUM,$3.32,-3.6%,5.8%,47.5%,"$586,864,535","$345,992,461",,https://www.coingecko.com/en/coins/Qtum,87.18%,9657
+,78,Nexus Mutual  NXM  NXM,$49.96,0.2%,7.9%,68.3%,"$14,381.90","$334,420,926",,https://www.coingecko.com/en/coins/Nexus-Mutual,57.89%,5951
+,79,Aave LINK  ALINK  ALINK,$17.46,,8.1%,43.8%,"$8,073,991","$330,885,424",,https://www.coingecko.com/en/coins/Aave-LINK,57.14%,875
+,80,THORChain  RUNE  RUNE,$1.49,-1.4%,-5.0%,14.5%,"$24,541,686","$328,174,710",,https://www.coingecko.com/en/coins/THORChain,91.38%,10283
+,81,Hedera Hashgraph  HBAR  HBAR,$0.04834460,0.3%,-6.5%,44.3%,"$65,250,424","$327,946,580",,https://www.coingecko.com/en/coins/Hedera-Hashgraph,72.84%,6533
+,82,TrueUSD  TUSD  TUSD,$1.00,0.2%,0.5%,0.1%,"$197,914,627","$314,066,266",,https://www.coingecko.com/en/coins/TrueUSD,,
+,83,HUSD  HUSD  HUSD,$0.997869,-0.5%,0.2%,-0.3%,"$120,865,623","$311,422,178",,https://www.coingecko.com/en/coins/HUSD,,
+,84,Bitcoin Gold  BTG  BTG,$16.92,-3.8%,38.6%,101.1%,"$302,713,425","$298,658,285",,https://www.coingecko.com/en/coins/Bitcoin-Gold,88.81%,10947
+,85,Ampleforth  AMPL  AMPL,$0.985490,-1.1%,-3.3%,-1.9%,"$8,952,655","$295,694,676",,https://www.coingecko.com/en/coins/Ampleforth,62.5%,12614
+,86,SwissBorg  CHSB  CHSB,$0.292509,-2.3%,-5.4%,20.5%,"$3,016,181","$274,759,063",,https://www.coingecko.com/en/coins/SwissBorg,77.08%,7992
+,87,BitTorrent  BTT  BTT,$0.00039573,-2.3%,-3.7%,17.6%,"$146,029,116","$260,857,476",,https://www.coingecko.com/en/coins/BitTorrent,87.88%,8703
+,88,Verge  XVG  XVG,$0.01530957,0.9%,-3.2%,102.8%,"$13,608,640","$246,148,872",,https://www.coingecko.com/en/coins/Verge,91.1%,15636
+,89,Kyber Network  KNC  KNC,$1.18,-1.8%,1.0%,50.0%,"$102,798,957","$238,077,403",,https://www.coingecko.com/en/coins/Kyber-Network,89.58%,16200
+,90,Energy Web Token  EWT  EWT,$7.16,-1.5%,4.0%,11.9%,"$1,746,443","$234,236,731",,https://www.coingecko.com/en/coins/Energy-Web,,
+,91,Status  SNT  SNT,$0.05869273,-2.8%,-4.1%,90.3%,"$60,214,034","$228,397,411",,https://www.coingecko.com/en/coins/Status,83.33%,6312
+,92,Siacoin  SC  SC,$0.00501319,-1.2%,-1.8%,9.5%,"$25,166,868","$227,573,920",,https://www.coingecko.com/en/coins/Siacoin,80.77%,14006
+,93,Band Protocol  BAND  BAND,$9.86,-2.3%,-7.4%,64.2%,"$218,396,663","$222,799,385",,https://www.coingecko.com/en/coins/Band-Protocol,83.16%,20140
+,94,Balancer  BAL  BAL,$20.41,-1.8%,4.7%,39.9%,"$90,508,828","$222,179,762",,https://www.coingecko.com/en/coins/Balancer,96.55%,8666
+,95,Horizen  ZEN  ZEN,$19.71,-4.1%,27.5%,68.3%,"$44,491,121","$213,783,190",,https://www.coingecko.com/en/coins/Horizen,88.24%,6380
+,96,Aave ETH  AETH  AETH,$660.11,?,?,?,?,"$210,209,637",,https://www.coingecko.com/en/coins/Aave-ETH,0.0%,502
+,97,Lisk  LSK  LSK,$1.43,-3.3%,1.5%,23.8%,"$24,764,771","$205,841,863",,https://www.coingecko.com/en/coins/Lisk,82.0%,11008
+,98,Quant  QNT  QNT,$16.56,0.3%,8.6%,37.2%,"$5,881,216","$205,486,446",,https://www.coingecko.com/en/coins/Quant,93.55%,5206
+,99,Bitcoin Diamond  BCD  BCD,$1.05,-4.9%,78.1%,117.2%,"$39,917,635","$200,700,214",,https://www.coingecko.com/en/coins/Bitcoin-Diamond,86.55%,3950
+,100,IOST  IOST  IOST,$0.01065893,-2.5%,-12.2%,89.6%,"$421,799,353","$198,556,569",,https://www.coingecko.com/en/coins/IOST,89.53%,5496
