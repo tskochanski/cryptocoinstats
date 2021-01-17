@@ -1,0 +1,9 @@
+.. vim: syntax=rst
+
+==========
+UserManual
+==========
+
+.. toctree::
+    UserManual.rest
+    UserManual.rest
