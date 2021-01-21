@@ -7,9 +7,17 @@ import bs4
 from bs4 import BeautifulSoup
 import requests
 
-
-
 def print_hi(name):
+    """
+    this function returns your name.
+
+    :param name: some value
+    :type name: str
+    :return: name
+    :rtype: str
+    """
+
+
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
