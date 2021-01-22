@@ -28,17 +28,17 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 r = requests.get('https://www.usclimatedata.com/climate/united-states/us')
-soup = BeautifulSoup(requests.text)
-print(soup.title)
-print(soup.title.string)
+#soup = BeautifulSoup(requests.text)
+#print(soup.title)
+#print(soup.title.string)
 
 
 
 
 
-html = "";
-parsed_html = bs4.BeautifulSoup(html, "html.parser")
-print(len(r.text))
-text_found = parsed_html.findAll("div", attrs={"class": "classname"}).text
-print(text_found)
+#html = "";
+#parsed_html = bs4.BeautifulSoup(html, "html.parser")
+#print(len(r.text))
+#text_found = parsed_html.findAll("div", attrs={"class": "classname"}).text
+#print(text_found)
 
